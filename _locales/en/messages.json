@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "NeverProxy",
+    "description": "The name of the extension."
+  },
+  "extDescription": {
+    "message": "Permanently disables system proxy settings.",
+    "description": "The description of the extension."
+  }
+}
